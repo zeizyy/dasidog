@@ -1,0 +1,112 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:00:04 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/railties-4.1.8/lib/rails/templates/rails/welcome/index.html.erb (2.0ms)
+Completed 200 OK in 61ms (Views: 42.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:00:05 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/railties-4.1.8/lib/rails/templates/rails/welcome/index.html.erb (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:19 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:2: syntax error, unexpected ':', expecting ';' or '\n'):
+  app/controllers/welcome_controller.rb:2: syntax error, unexpected ':', expecting ';' or '\n'
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (13.7ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (44.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:32 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:3: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/welcome_controller.rb:3: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (25.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:33 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:3: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/welcome_controller.rb:3: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.4ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.9ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:38 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:2: syntax error, unexpected end-of-input, expecting ';' or '\n'
+	def index
+	         ^):
+  app/controllers/welcome_controller.rb:2: syntax error, unexpected end-of-input, expecting ';' or '\n'
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (27.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:38 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:2: syntax error, unexpected end-of-input, expecting ';' or '\n'
+	def index
+	         ^):
+  app/controllers/welcome_controller.rb:2: syntax error, unexpected end-of-input, expecting ';' or '\n'
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (19.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:48 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:4: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/welcome_controller.rb:4: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.1ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.2ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (24.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:49 -0400
+
+SyntaxError (/home/zeizyy/dasidog/app/controllers/welcome_controller.rb:4: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/controllers/welcome_controller.rb:4: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.9ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /home/zeizyy/.rvm/gems/ruby-2.2.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:58 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html (0.6ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-23 22:12:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
